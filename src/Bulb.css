@@ -1,0 +1,17 @@
+
+body {
+    background-color: black;
+}
+
+.bulb {
+    height: 80px;
+    width: 60px;
+    margin: 5px;
+    background-image: url('bulb-off.jpg');
+    background-repeat: no-repeat;
+    background-size: 60px 80px;
+}
+
+.bulb-lit {
+    background-image: url('bulb-on.jpg');
+}
